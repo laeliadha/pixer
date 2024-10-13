@@ -1,9 +1,9 @@
 {
   "env": {
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "",
-    "NEXT_PUBLIC_WEBSITE_URL": "",
-    "NEXT_PUBLIC_ADMIN_URL": "",
-    "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://api.kitahagia.com",
+    "NEXT_PUBLIC_WEBSITE_URL": "https://pixer-three-sigma.vercel.app",
+    "NEXT_PUBLIC_ADMIN_URL": "https://pixer-three-sigma.vercel.app",
+    "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "xxx-xxxx",
     "NEXT_PUBLIC_PAYPAL_CLIENT_TOKEN": "",
     "NEXT_PUBLIC_PAYSTACK_KEY": "",
     "NEXT_PUBLIC_RAZORPAY_KEY": "",
@@ -17,10 +17,10 @@
   },
   "build": {
     "env": {
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "",
-      "NEXT_PUBLIC_WEBSITE_URL": "",
-      "NEXT_PUBLIC_ADMIN_URL": "",
-      "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://api.kitahagia.com",
+      "NEXT_PUBLIC_WEBSITE_URL": "https://pixer-three-sigma.vercel.app",
+      "NEXT_PUBLIC_ADMIN_URL": "https://pixer-three-sigma.vercel.app",
+      "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "xxxx-xxxx",
       "NEXT_PUBLIC_PAYPAL_CLIENT_TOKEN": "",
       "NEXT_PUBLIC_PAYSTACK_KEY": "",
       "NEXT_PUBLIC_RAZORPAY_KEY": "",

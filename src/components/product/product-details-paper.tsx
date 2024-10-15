@@ -89,7 +89,7 @@ export default function ProductDetailsPaper({ product, className }: Props) {
         </div>
       </div>
       <div className="flex flex-col-reverse items-center py-3.5 xs:flex-row xs:gap-2.5 sm:py-4 md:gap-3.5 lg:w-[480px] lg:gap-4 lg:py-2 2xl:w-2/5 3xl:w-[480px]">
-        {is_external ? (
+        {is_external && external_product_url ? (
           <Link
             href={external_product_url}
             target="_blank"
